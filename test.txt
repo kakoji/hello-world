@@ -5,4 +5,5 @@ Usage:
 	git checkout -b feature-name
 	git add .
 	git commit
+	git push
 	(make pull request)
