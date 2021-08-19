@@ -1,0 +1,8 @@
+git fetch
+の後に、
+git merge --no-ff origin/master
+したらどのようになるのか
+-> マージされた
+
+origin/masterで作業したらどうなるか
+-> checkoutできなかった
