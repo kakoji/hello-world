@@ -1,3 +1,3 @@
 # hello-world
-For tutorial
+For tutorial.
 Pull Request test
