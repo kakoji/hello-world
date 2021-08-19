@@ -1,1 +1,8 @@
 Useful branch
+
+Branches improve maintainability.
+Usage:
+	git checkout -b feature-name
+	git add .
+	git commit
+	(make pull request)
